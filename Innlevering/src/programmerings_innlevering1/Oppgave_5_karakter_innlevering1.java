@@ -2,7 +2,7 @@ package programmerings_innlevering1;
 
 import static javax.swing.JOptionPane.*;
 
-public class Oppgave_7_karakter_innlevering1 {
+public class Oppgave_5_karakter_innlevering1 {
 
 	public static void main(String[] args) { 
 
